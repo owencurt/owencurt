@@ -47,29 +47,13 @@
   </marquee>
 </p>
 
-
----
-
-## 💼 Experience
-
-**Website & Data Specialist**  
-*Shared Resources, Inc.*  
-- Manage websites and automate data workflows for legal organizations  
-- Improve performance and maintainability across legacy platforms  
-
 ---
 
 ## 🚀 Projects
 
-### 🌸 *DahliaGens* (Mobile App)  
-A flower breeding tracker for dahlia growers.  
-- Built with React Native + Firebase  
-- Supports seedling tracking, cross-breeding logs, stats, and filtering  
-*Note: Repository is private.*
-
-### 🎬 *AI Movie Recommendation Web App* (In Progress)  
-A group-based movie recommendation engine  
-- Users input preferences, and AI suggests options for everyone  
-- Built with Node.js, OpenAI API, Firebase, and TMDb API  
+| 🌸 *DahliaGens* (Mobile App) | 🎬 *AI Movie Recommendation Web App* (In Progress) |
+|-----------------------------|---------------------------------------------------|
+| A flower breeding tracker for dahlia growers. <br> - Built with React Native + Firebase <br> - Supports seedling tracking, cross-breeding logs, stats, and filtering <br> *Note: Repository is private.* | A group-based movie recommendation engine. <br> - Users input preferences, and AI suggests options for everyone <br> - Built with Node.js, OpenAI API, Firebase, and TMDb API |
+ 
 
 ---
