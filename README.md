@@ -5,7 +5,7 @@
 📍 Based in the U.S.
 
 - [LinkedIn](https://www.linkedin.com/in/owen-curtis-982003319/)  
-- [Resume](https://drive.google.com/file/d/1xVCiEJUaGByY2ihv3D5Gx6ZBgJh2JtVc/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/16bbbnHrTYG18wzp4Il2QUYol1il4MRuO/view?usp=sharing)
   
 ---
 
