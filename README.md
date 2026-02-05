@@ -1,11 +1,9 @@
-# 👋 Hi, I'm Owen Curtis
+# Hi, I'm Owen Curtis
 
-🎓 CSE Student @ Michigan State University  
-💻 Website Developer & Aspiring Software Engineer  
-📍 Based in the U.S.
+🎓 CS Student @ Michigan State University  
 
-- [LinkedIn](https://www.linkedin.com/in/owen-curtis-982003319/)  
-- [Resume](https://drive.google.com/file/d/16bbbnHrTYG18wzp4Il2QUYol1il4MRuO/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/owen-curtis/)  
+- [Resume](https://drive.google.com/file/d/1L9AVkywyRI3ZudXjV5CSky3ypZ6U-f8d/view?usp=sharing)
   
 ---
 
@@ -51,7 +49,7 @@
 
 ## 🚀 Projects
 
-| 🌸 *DahliaGens* (Mobile App) | 🎬 *AI Movie Recommendation Web App* (In Progress) |
+| 🌸 *DahliaGens* (Mobile App) | 🎬 *AI Movie Recommendation Web App* |
 |-----------------------------|---------------------------------------------------|
 | A flower breeding tracker for dahlia growers. <br> - Built with React Native + Firebase <br> - Supports seedling tracking, cross-breeding logs, stats, and filtering <br> *Note: Repository is private.* | A group-based movie recommendation engine. <br> - Users input preferences, and AI suggests options for everyone <br> - Built with Node.js, OpenAI API, Firebase, and TMDb API |
  
